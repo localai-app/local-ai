@@ -5,7 +5,7 @@ it only goes online to search the web for you or to download the AI model you ch
 
 ## Download
 
-Get the latest installer from **[Releases](https://github.com/Wizlock23/local-ai/releases/latest)**
+Get the latest installer from **[Releases](https://github.com/localai-app/local-ai/releases/latest)**
 (`LocalAI-Setup-….exe`), run it, and follow the setup screens. Installing doesn't need administrator rights.
 
 This preview isn't code-signed yet, so Windows may say "Windows protected your PC". Choose **More info**, then
