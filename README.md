@@ -141,9 +141,21 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   with a notification.
 - **Watches**: "let me know when the new schedule is announced" checks every few hours and only speaks up when something
   changes.
-- Windows notifications with sound, and phone notifications too. Local AI needs to be running for them to go off.
+- Windows notifications with **Snooze** buttons, and phone notifications too. Local AI needs to be running for them to
+  go off.
+
+### Stocks and crypto
+- "watch bitcoin and NVDA", "tell me if ETH drops below 2,000", "tell me if Tesla stock moves 5%", "how's my watchlist?",
+  "what's trending in crypto?". Prices only; nothing about what you own.
+- Big moves, your own price targets and new 30-day highs or lows become a notification on your PC and phone, a line in
+  the Markets chat and, if you connect one, a post in your Discord channel. Alerts wait while you're gaming or overnight.
+- **More → Markets** shows your watchlist with a 30-day chart; "every morning at 7, my markets summary" works too.
+- **Settings → Markets** holds the watchlist, how sensitive alerts are, Discord alerts and an optional free Finnhub key.
+- Only the names or tickers are sent to CoinGecko and Yahoo Finance. Local AI never suggests buying or selling and can't
+  trade.
 
 ### Talk to it (optional voice add-on)
+- **Ctrl+Alt+V** from any app starts hands-free talking.
 - Speak your question with the microphone and hear answers read aloud with a natural voice that runs on your PC.
 - **Talk hands-free**: just speak, pause, and Local AI answers out loud, then listens again.
 
@@ -198,7 +210,8 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 
 ### Phone, tablet and family
 - **At home**: chat from your phone's browser on your home Wi-Fi. Scan a QR code, sign in, then use **Add to Home
-  Screen**. It has the same look, cards and notifications as on the PC.
+  Screen**. It has the same look, cards and notifications as on the PC, plus a **Today** screen with your reminders,
+  scheduled checks, watchlist and playtime.
 - **From anywhere**: **Settings → Phone & sharing → Use from anywhere** lets your phone reach Local AI on any Wi-Fi or
   mobile data, with no router changes. Your phone signs in to Local AI with your own password, and repeated wrong
   passwords lock sign-in for longer and longer. Forgot the phone password? **Reset phone password** signs every phone out and lets you choose a new one.
@@ -223,6 +236,8 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - Connect your own Discord bot so people in your server can ask Local AI questions, with web answers, exact sums and
   today's date.
 - Guests get a separate, limited assistant with no access to your chats, memories or files.
+- Server commands: **/gamenight** (a reminder before it starts), **/lfg** (who's in? then a ping when it's time),
+  **/patchnotes** (a weekly summary), **/plans**, **/price** and **/movers**.
 
 ### Safety and housekeeping
 - **Backups**: back up and restore everything in one file, optionally encrypted with a passphrase, or turn on daily
