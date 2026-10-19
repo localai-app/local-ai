@@ -62,7 +62,12 @@ card and skips the slower built-in graphics. **AMD Strix Halo (Ryzen AI Max)?** 
 bigger models fit. You can choose which card to use in **Settings → Speed & answers**.
 
 After the AI loads, Local AI checks that it really fits on the graphics card. If part of it spilled into slower shared
-memory, it moves picture reading (and, for some models, a few layers) to the processor and quietly reloads.
+memory, it moves picture reading (and, for some models, a few layers) to the processor and quietly reloads. It checks again every 15 minutes in case
+something pushes it out later.
+
+**Tune it for your PC**: **Settings → Speed & answers → Show fine-tune options** lets you choose how long the AI stays
+loaded (up to always), see and adjust the graphics card fit, set processor threads, pick an answer style (Precise,
+Balanced or Creative) and run a speed test. Chats can be as long as your model supports (up to 128k tokens).
 
 ### AI models offered during setup
 
@@ -156,16 +161,16 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   work waits.
 - Reminders, sums, dates and your phone keep working. Ask something on the PC and the AI wakes up for the answer, then
   steps aside again a few minutes later. Family phones and Discord guests are asked to try again after the game.
-- When the game closes, the AI is ready again within about half a minute. Turn it on or off in **Settings → While you play**.
+- When the game closes, the AI is ready again within about half a minute. Turn it on or off in **Settings → Gaming**.
 - **Playtime**: ask "how long have I played today?", "this week?" or "how long have I played Elden Ring?". An optional
-  break reminder nudges you every 2 hours of play (**Settings → Breaks**).
+  break reminder nudges you every 2 hours of play (**Settings → Gaming**).
 - **Performance helper**: "why is my game stuttering?" or "what's using my RAM?" takes a quick reading of the processor,
   memory and graphics card, then gives plain advice.
 - **Steam prices**: "is Hades on sale?" gets the price, any discount and a link, and you can watch a game for a sale.
   Only the game's name is sent to Steam. Discord guests and family phones can ask too.
 - **Game clips** (optional, early): after a one-time add-on download, **Ctrl+Alt+C** or "clip that" saves the last
   15 seconds to 2 minutes of your game, with sound, to `Videos\Local AI Clips`. It uses your graphics card's video
-  encoder only (tested once in **Settings → Game clips**), never the processor.
+  encoder only (tested once in **Settings → Gaming**), never the processor.
 
 ### Do it for me (computer use)
 - "Open Notepad and write a shopping list", "in Calculator, work out 15% of 240", "in File Explorer, make a folder
