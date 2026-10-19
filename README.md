@@ -53,7 +53,7 @@ fingerprint, updates itself and reopens. Your chats, memories and settings are k
 | Windows | Windows 10 or 11, 64-bit | Windows 11 |
 | Memory | 8 GB | 16 GB or more |
 | Graphics | Not required (runs on the processor, slowly) | A graphics card with 8 GB or more |
-| Disk space | About 5 GB | 10–25 GB, depending on the model and add-ons |
+| Disk space | About 4 GB | 10–25 GB, depending on the model and add-ons |
 
 Local AI uses Vulkan, so it works with AMD, NVIDIA and Intel graphics.
 
@@ -242,7 +242,11 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 ### Safety and housekeeping
 - **Backups**: back up and restore everything in one file, optionally encrypted with a passphrase, or turn on daily
   automatic backups.
-- **Updates**: Local AI checks this page once a day and offers **Update now**. Nothing installs without you.
+- **Updates**: Local AI checks this page once a day and offers **Update now**. Nothing installs without you, and
+  **What's new** shows each release's notes afterwards.
+- **Help**: the **?** in the left bar explains every feature and keyboard shortcut; each setting has a **What is this?**
+  button and says whether it applies right away.
+- **Your data folder** has a README.txt explaining what each file is.
 - **System health**: a plain "at a glance" view of the model, graphics, phone access, backups and more.
 - **Diagnostics**: Help → Save diagnostics makes a file for bug reports. It never includes your chats, memories or files.
 
