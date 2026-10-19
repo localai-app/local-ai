@@ -13,6 +13,7 @@ cloud AI you linked yourself.
 - 🗣️ Talk to it and hear answers read aloud, even hands-free (optional voice add-on, runs on your PC)
 - 🎮 **Workshop**: describe a game or an app and Local AI builds it, play-tests it and lets you use it right away
 - 🖱️ **Do it for me**: it can use apps like Notepad, Calculator and File Explorer for you, with your OK
+- 🎮 **Game mode**: when you start a game, the AI steps aside so your game gets the whole graphics card
 - 🔌 **Connections**: link folders and services (GitHub, Home Assistant and more) and ask about them in normal words
 - 🖼️ Create and edit pictures on your PC (optional add-on)
 - 📱 Use it from your phone at home or anywhere, and give family members their own private sign-in
@@ -145,6 +146,14 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   one file anyone can open.
 - Web games and apps by default, and 2D or 3D games with a real game engine when you want one.
 - Choose Quick, Best quality (an optional bigger builder download) or Claude, if you link it.
+
+### Game mode
+- When you start a game from Steam, Epic, EA, Riot, GOG, Ubisoft, Battle.net or Xbox (or any program you add to
+  `games.txt`), Local AI steps aside: the AI model is unloaded so your game gets the whole graphics card, and background
+  work waits.
+- Reminders, sums, dates and your phone keep working. Ask something on the PC and the AI wakes up for the answer, then
+  steps aside again a few minutes later. Family phones and Discord guests are asked to try again after the game.
+- When the game closes, the AI is ready again within about half a minute. Turn it on or off in **Settings → While you play**.
 
 ### Do it for me (computer use)
 - "Open Notepad and write a shopping list", "in Calculator, work out 15% of 240", "in File Explorer, make a folder
