@@ -134,7 +134,8 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - Open **Memories** to see, edit or delete everything it remembers, and **Undo** any new memory with one click.
 - Optional "search model" (0.6 GB) finds memories and earlier chats by meaning, not just exact words, and helps it
   understand everyday wording.
-- "What did we talk about yesterday?" looks back through your chats. You can turn memory off for a single chat.
+- "What did we talk about yesterday?" looks back through your chats, and "did we ever discuss car engines?" finds the
+  chats about a subject. You can turn memory off for a single chat.
 
 ### Reminders, timers and briefings
 - Say it naturally: "remind me at quarter to 5 to leave", "the day after tomorrow", "on the 25th", "end of the month",
