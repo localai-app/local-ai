@@ -149,7 +149,9 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   "what's trending in crypto?". Prices only; nothing about what you own.
 - Big moves, your own price targets and new 30-day highs or lows become a notification on your PC and phone, a line in
   the Markets chat and, if you connect one, a post in your Discord channel. Alerts wait while you're gaming or overnight.
-- **More → Markets** shows your watchlist with a 30-day chart; "every morning at 7, my markets summary" works too.
+- Ask in your own words: "how are my stocks looking?", "market update", "stock news", "NVDA news" (headlines with links).
+- **More → Markets** opens your watchlist window: every coin and stock with today's move and a 30-day chart, plus Remove,
+  Add and Refresh. "Every morning at 7, my markets summary" works too.
 - **Settings → Markets** holds the watchlist, how sensitive alerts are, Discord alerts and an optional free Finnhub key.
 - Only the names or tickers are sent to CoinGecko and Yahoo Finance. Local AI never suggests buying or selling and can't
   trade.
