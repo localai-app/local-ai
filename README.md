@@ -89,6 +89,8 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 ## What it can do
 
 ### Chat and everyday help
+- Answers Local AI works out itself show as tidy cards: sums and conversions, weather, sports, Steam prices,
+  playtime, your PC's performance, your reminders and schedule, what it knows about you, stocks, crypto and news.
 - Ask anything: explanations, writing and email drafts, translations, ideas. Answers are as short as the question:
   a fact in a sentence or two, steps as a short list.
 - Say things your own way, typos and all: "don't let me forget to call Mum at 5", "it's too bright in here",
