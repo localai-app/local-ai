@@ -91,6 +91,8 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 ### Chat and everyday help
 - Answers Local AI works out itself show as tidy cards: sums and conversions, weather, sports, Steam prices,
   playtime, your PC's performance, your reminders and schedule, what it knows about you, stocks, crypto and news.
+  Your phone shows the same cards. The ⓘ under any answer says in plain words what it used: saved memories, earlier
+  chats and web sources.
 - Ask anything: explanations, writing and email drafts, translations, ideas. Answers are as short as the question:
   a fact in a sentence or two, steps as a short list.
 - Say things your own way, typos and all: "don't let me forget to call Mum at 5", "it's too bright in here",
@@ -242,7 +244,8 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   today's date.
 - Guests get a separate, limited assistant with no access to your chats, memories or files.
 - Server commands: **/gamenight** (a reminder before it starts), **/lfg** (who's in? then a ping when it's time),
-  **/patchnotes** (a weekly summary), **/plans**, **/price** and **/movers**.
+  **/patchnotes** (a weekly summary), **/plans**, **/price** and **/movers** (answered as cards with today's move in
+  green or red and the 30-day range).
 
 ### Safety and housekeeping
 - **Backups**: back up and restore everything in one file, optionally encrypted with a passphrase, or turn on daily
