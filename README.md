@@ -97,6 +97,10 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   a fact in a sentence or two, steps as a short list.
 - Say things your own way, typos and all: "don't let me forget to call Mum at 5", "it's too bright in here",
   "make the text bigger", "google it". If it gets one wrong, reply "no, I meant …" and it learns your wording.
+- **Talk to it like a person.** Follow-ups just work: "shorter", "and tomorrow?", "in feet?", "the second one",
+  "that's old", "are you sure?", even "?". Tell it how you like replies ("keep your answers short", "be more
+  sarcastic", "stop using emojis") and it keeps doing that in every chat. It gives a real pick when you ask for
+  one, re-checks before agreeing when you say it's wrong, and never claims it can't do something it can.
 - **Sums done exactly**: percentages, tips, discounts and tax, splitting a bill, unit conversions (miles, kg, cups,
   ounces…), temperatures, "how many days until Christmas", and the date and time, all worked out by the app.
 - Attach a picture (**+**, paste or drag in) and ask about it. **Ctrl+Alt+S** takes a picture of the window you're
