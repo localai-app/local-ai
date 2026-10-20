@@ -101,6 +101,10 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   "that's old", "are you sure?", even "?". Tell it how you like replies ("keep your answers short", "be more
   sarcastic", "stop using emojis") and it keeps doing that in every chat. It gives a real pick when you ask for
   one, re-checks before agreeing when you say it's wrong, and never claims it can't do something it can.
+- **The same for everyone**: family sign-ins and Discord guests get the same understanding and voice (within their own
+  limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
+  Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
+  same in chat. Ask "how do you search?" and it tells you plainly.
 - **Sums done exactly**: percentages, tips, discounts and tax, splitting a bill, unit conversions (miles, kg, cups,
   ounces…), temperatures, "how many days until Christmas", and the date and time, all worked out by the app.
 - Attach a picture (**+**, paste or drag in) and ask about it. **Ctrl+Alt+S** takes a picture of the window you're
