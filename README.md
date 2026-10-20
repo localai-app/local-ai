@@ -150,6 +150,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - Big moves, your own price targets and new 30-day highs or lows become a notification on your PC and phone, a line in
   the Markets chat and, if you connect one, a post in your Discord channel. Alerts wait while you're gaming or overnight.
 - Ask in your own words: "how are my stocks looking?", "market update", "stock news", "NVDA news" (headlines with links).
+  Answers show as a card with each price, today's move and a 30-day chart.
 - **More → Markets** opens your watchlist page: a card for every coin and stock with today's move, a 30-day chart, its
   alerts and a Remove button, plus Add and Refresh. "Every morning at 7, my markets summary" works too.
 - **Settings → Markets** holds the watchlist, how sensitive alerts are, Discord alerts and an optional free Finnhub key.
