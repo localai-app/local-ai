@@ -106,6 +106,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Better sources, and phones catch up**: questions about who runs or owns something are checked against Wikipedia or a news site; phones get repeat buttons on reminders, family members get repeating reminders, Undo and Sources; Discord guests get clearer answers and fewer repeated quotes.
 - **Smarter answers, taught by example**: live prices for gold, oil, currencies and crypto, exact world times and bill splits, more questions looked up instead of guessed, weather questions in everyday words, and plainer web answers.
 - **More answers you can count on**: exact holiday dates, fractions and number patterns, live prices for any company's stock, better web lookups on big pages, and requests that always get a real answer.
+- **Straight answers about the world and about Local AI**: current officeholders looked up, live sports results, official Chrome and Firefox versions, and plain answers to "is my data safe?" and "what can you do offline?".
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
