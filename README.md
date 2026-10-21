@@ -108,6 +108,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **More answers you can count on**: exact holiday dates, fractions and number patterns, live prices for any company's stock, better web lookups on big pages, and requests that always get a real answer.
 - **Straight answers about the world and about Local AI**: current officeholders looked up, live sports results, official Chrome and Firefox versions, and plain answers to "is my data safe?" and "what can you do offline?".
 - **Better at knowing when to look things up**: local events this weekend, current officials and company leaders, betting favorites, tomorrow-morning forecasts, the newest Chrome and Edge versions, and real answers to everyday advice questions.
+- **Understands more ways of asking**: when a question needs up-to-date facts in words it doesn't recognize, it checks and looks it up; casual web questions are searched in plain words; plus everyday wordings for prices, markets, weather, time zones, places and bill splits.
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
