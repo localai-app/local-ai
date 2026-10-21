@@ -104,6 +104,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **The same for everyone**: family sign-ins and Discord guests get the same understanding and voice (within their own
 - **Small things that add up**: Undo after forgetting a memory, the monthly "Still true?" check on phones, Every day / Weekdays buttons on reminders, and Sources that also show the pages Local AI skipped and why.
 - **Better sources, and phones catch up**: questions about who runs or owns something are checked against Wikipedia or a news site; phones get repeat buttons on reminders, family members get repeating reminders, Undo and Sources; Discord guests get clearer answers and fewer repeated quotes.
+- **Smarter answers, taught by example**: live prices for gold, oil, currencies and crypto, exact world times and bill splits, more questions looked up instead of guessed, weather questions in everyday words, and plainer web answers.
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
