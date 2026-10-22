@@ -110,6 +110,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Better at knowing when to look things up**: local events this weekend, current officials and company leaders, betting favorites, tomorrow-morning forecasts, the newest Chrome and Edge versions, and real answers to everyday advice questions.
 - **Understands more ways of asking**: when a question needs up-to-date facts in words it doesn't recognize, it checks and looks it up; casual web questions are searched in plain words; plus everyday wordings for prices, markets, weather, time zones, places and bill splits.
 - **Morning brief**: the first time you open Local AI each day, one card (and a phone notification) with your weather, reminders and birthdays, yesterday's games, your watchlist, your teams, headlines, game deals and anything on your PC that needs attention. Family members get their own.
+- **Brief cards and teams**: the brief is a clean stack of cards, one per section, and you manage the teams it follows in a list that checks each team when you add it (college teams too).
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
