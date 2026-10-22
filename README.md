@@ -115,6 +115,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Your assistant**: 👎 under a wrong answer and Local AI tries again (also on phones and in Discord), follow topics for news in your morning brief, one-tap shortcuts for questions you ask often, and overnight prep that tidies up while your PC is idle.
 - **Calendar**: a Calendar button on the left bar. Say "dentist next Tuesday at 3" or "Mom's birthday is March 3", ask "what's on my calendar this week?" or "am I free Friday?", and upcoming events show in your morning brief (birthdays a week ahead, the rest three days ahead, and on the day) with a notification 30 minutes before. Warns about overlaps, connects Google, Outlook or Apple calendars read-only, exports .ics, and has a shared family calendar on everyone's phone.
 - **Phone menu and staying signed in**: one-tap tiles for Today, Calendar, Memories, Workshop and Settings in the phone's left menu, icons on every section, and a fix for iPhones signing you out of the Home Screen app.
+- **Phone calendar, charts and chat settings**: the phone's Calendar shows the whole month (tap a day for its events), Today shows your watchlist with 30-day charts like the PC, and **This chat** explains each setting for the chat you have open.
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
@@ -241,7 +242,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **At home**: chat from your phone's browser on your home Wi-Fi. Scan a QR code, sign in, then use **Add to Home
   Screen**. It has the same look, cards and notifications as on the PC, plus a **Today** screen with your reminders,
   scheduled checks, watchlist and playtime. The left menu has one-tap tiles for Today, Calendar, Memories, Workshop and
-  Settings, and the phone stays signed in even when an iPhone drops its saved sign-in.
+  Settings, a month calendar, and the phone stays signed in even when an iPhone drops its saved sign-in.
 - **From anywhere**: **Settings → Phone & sharing → Use from anywhere** lets your phone reach Local AI on any Wi-Fi or
   mobile data, with no router changes. Your phone signs in to Local AI with your own password, and repeated wrong
   passwords lock sign-in for longer and longer. Forgot the phone password? **Reset phone password** signs every phone out and lets you choose a new one.
