@@ -111,6 +111,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Understands more ways of asking**: when a question needs up-to-date facts in words it doesn't recognize, it checks and looks it up; casual web questions are searched in plain words; plus everyday wordings for prices, markets, weather, time zones, places and bill splits.
 - **Morning brief**: the first time you open Local AI each day, one card (and a phone notification) with your weather, reminders and birthdays, yesterday's games, your watchlist, your teams, headlines, game deals and anything on your PC that needs attention. Family members get their own.
 - **Brief cards and teams**: the brief is a clean stack of cards, one per section, and you manage the teams it follows in a list that checks each team when you add it (college teams too).
+- **Your assistant**: 👎 under a wrong answer and Local AI tries again (also on phones and in Discord), follow topics for news in your morning brief, one-tap shortcuts for questions you ask often, and overnight prep that tidies up while your PC is idle.
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
@@ -283,7 +284,7 @@ Local AI starts in a simple mode. Turn on **Show all features** in **Settings �
 - Longer multi-step tasks over approved files.
 - Coding help in an approved project folder (on a separate copy).
 
-Idle practice and self-improvement are under **Experimental features**, which is off unless you turn it on.
+Answers to fix, topics you follow, shortcuts and overnight prep are under **Settings → Your assistant**. The older learning tools (idle practice, self-improvement) are under **Experimental features**, which is off unless you turn it on.
 
 ---
 
