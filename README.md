@@ -118,6 +118,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Phone calendar, charts and chat settings**: the phone's Calendar shows the whole month (tap a day for its events), Today shows your watchlist with 30-day charts like the PC, and **This chat** explains each setting for the chat you have open.
 - **Phone, markets and clips**: phone menu sections as clean cards with Snooze and Cancel on reminders, sector alerts, a market close summary and watchlist export, "clip that" by voice and sharing clips to Discord, plus better answers about frost, snow, other cities' weekend weather, spot prices, world news and local events.
 - **Better answers, add to calendar, accessibility, smaller install**: the latest iOS, Android, macOS and Windows 11 versions straight from Apple, Google and Microsoft; "who runs <company>?" from the encyclopedia with the real title; "Add to my calendar" on each event (your phone's own calendar, or a file for Outlook/Windows/Apple on the PC); every control named for screen readers; and a smaller installer (about 120 MB) now that Local AI no longer carries a second copy of .NET.
+- **Places near you**: "nearest gas station", "what's to eat around here?", "how long to get home?", "will I make my 3:00?", "where am I?". Cards with logos or photos, open now, distance and drive time, Directions and Website; follow-ups like "more", "open late" and "directions to the second one". Uses your phone's location (it asks first) or Windows' location on the PC; free maps, no account needed.
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
@@ -172,6 +173,18 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   changes.
 - Windows notifications with **Snooze** buttons, and phone notifications too. Local AI needs to be running for them to
   go off.
+
+### Places near you
+- Ask about what's around you: "nearest grocery", "what's to eat around here?", "any pharmacies open now near me",
+  "tacos near downtown Louisville". Each answer is a card: the place's logo or photo, open now or closed, distance and
+  drive time, address, and Directions, Website and Call buttons. Then "more", "which ones are open late?",
+  "directions to the second one" or "just Mexican".
+- "How long to get home?", "how far is the airport from here?" and "will I make my 3:00?" (for calendar events with a
+  place: it says when to leave). "Where am I?" names the street and town.
+- Away from home, "will it rain tomorrow?" and the morning brief use the town you're in.
+- Your phone shares its location only for questions that need it (it asks you first); on the PC Local AI asks Windows
+  (**Settings → Places & maps**, where you can add your home address for exact travel times). Positions are rounded to
+  about a city block and never saved. Free services only: OpenStreetMap, Wikimedia and OSRM.
 
 ### Stocks and crypto
 - "watch bitcoin and NVDA", "tell me if ETH drops below 2,000", "tell me if Tesla stock moves 5%", "how's my watchlist?",
