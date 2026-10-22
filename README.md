@@ -10,6 +10,7 @@ cloud AI you linked yourself.
 - 📄 Ask about your documents (PDF, Word, text, even scans) and search your own files; it changes a file only after you click **Save**
 - 🧠 Remembers what you tell it (your name, family, allergies…), and you can see and edit everything it remembers
 - ⏰ Reminders, timers, repeating reminders and daily briefings, said in your own words
+- 📅 A calendar for appointments, birthdays, bills and plans, with Google, Outlook and Apple calendars connected
 - 🗣️ Talk to it and hear answers read aloud, even hands-free (optional voice add-on, runs on your PC)
 - 🎮 **Workshop**: describe a game or an app and Local AI builds it, play-tests it and lets you use it right away
 - 🖱️ **Do it for me**: it can use apps like Notepad, Calculator and File Explorer for you, with your OK
@@ -112,6 +113,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Morning brief**: the first time you open Local AI each day, one card (and a phone notification) with your weather, reminders and birthdays, yesterday's games, your watchlist, your teams, headlines, game deals and anything on your PC that needs attention. Family members get their own.
 - **Brief cards and teams**: the brief is a clean stack of cards, one per section, and you manage the teams it follows in a list that checks each team when you add it (college teams too).
 - **Your assistant**: 👎 under a wrong answer and Local AI tries again (also on phones and in Discord), follow topics for news in your morning brief, one-tap shortcuts for questions you ask often, and overnight prep that tidies up while your PC is idle.
+- **Calendar**: a Calendar button on the left bar. Say "dentist next Tuesday at 3" or "Mom's birthday is March 3", ask "what's on my calendar this week?" or "am I free Friday?", and upcoming events show in your morning brief (birthdays a week ahead, the rest three days ahead, and on the day) with a notification 30 minutes before. Warns about overlaps, connects Google, Outlook or Apple calendars read-only, exports .ics, and has a shared family calendar on everyone's phone.
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
