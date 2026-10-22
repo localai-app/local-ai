@@ -116,6 +116,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Calendar**: a Calendar button on the left bar. Say "dentist next Tuesday at 3" or "Mom's birthday is March 3", ask "what's on my calendar this week?" or "am I free Friday?", and upcoming events show in your morning brief (birthdays a week ahead, the rest three days ahead, and on the day) with a notification 30 minutes before. Warns about overlaps, connects Google, Outlook or Apple calendars read-only, exports .ics, and has a shared family calendar on everyone's phone.
 - **Phone menu and staying signed in**: one-tap tiles for Today, Calendar, Memories, Workshop and Settings in the phone's left menu, icons on every section, and a fix for iPhones signing you out of the Home Screen app.
 - **Phone calendar, charts and chat settings**: the phone's Calendar shows the whole month (tap a day for its events), Today shows your watchlist with 30-day charts like the PC, and **This chat** explains each setting for the chat you have open.
+- **Phone, markets and clips**: phone menu sections as clean cards with Snooze and Cancel on reminders, sector alerts, a market close summary and watchlist export, "clip that" by voice and sharing clips to Discord, plus better answers about frost, snow, other cities' weekend weather, spot prices, world news and local events.
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
@@ -179,7 +180,11 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - Ask in your own words: "how are my stocks looking?", "market update", "stock news", "NVDA news" (headlines with links).
   Answers show as a card with each price, today's move and a 30-day chart.
 - **More → Markets** opens your watchlist page: a card for every coin and stock with today's move, a 30-day chart, its
-  alerts and a Remove button, plus Add and Refresh. "Every morning at 7, my markets summary" works too.
+  alerts and a Remove button, plus Add and Refresh, Export (a CSV for Excel or Google Sheets) and a switch for a market
+  close summary. "Every morning at 7, my markets summary" works too.
+- Whole sectors and indexes: "watch the tech sector", "tell me if the energy sector drops 3%", "alert me if the S&P
+  falls 2%". "Send me a daily market wrap" turns on a short summary after the US close on weekdays (the S&P 500,
+  Nasdaq and Dow, plus your best and worst); "export my watchlist" saves it as a spreadsheet.
 - **Settings → Markets** holds the watchlist, how sensitive alerts are, Discord alerts and an optional free Finnhub key.
 - Only the names or tickers are sent to CoinGecko and Yahoo Finance. Local AI never suggests buying or selling and can't
   trade.
@@ -212,7 +217,10 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   Only the game's name is sent to Steam. Discord guests and family phones can ask too.
 - **Game clips** (optional, early): after a one-time add-on download, **Ctrl+Alt+C** or "clip that" saves the last
   15 seconds to 2 minutes of your game, with sound, to `Videos\Local AI Clips`. It uses your graphics card's video
-  encoder only (tested once in **Settings → Gaming**), never the processor.
+  encoder only (tested once in **Settings → Gaming**), never the processor. Optionally say "clip that" out loud while
+  you play (Windows' own offline speech recognizer, listening for a few phrases only while a game runs), and share a
+  clip to your Discord channel with **Share to Discord** on the notification or "share that clip" (clips over 10 MB
+  are copied at 720p first).
 
 ### Do it for me (computer use)
 - "Open Notepad and write a shopping list", "in Calculator, work out 15% of 240", "in File Explorer, make a folder
