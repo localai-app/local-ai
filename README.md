@@ -179,6 +179,8 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   "tacos near downtown Louisville". Each answer is a card: the place's logo or photo, open now or closed, distance and
   drive time, address, and Directions, Website and Call buttons. Then "more", "which ones are open late?",
   "directions to the second one" or "just Mexican".
+- Malls and stores too: "what malls are near me?", "dollar stores nearby", "what stores are near me, like Walmart?"
+  (the store you name comes first).
 - "How long to get home?", "how far is the airport from here?" and "will I make my 3:00?" (for calendar events with a
   place: it says when to leave). "Where am I?" names the street and town.
 - Away from home, "will it rain tomorrow?" and the morning brief use the town you're in.
