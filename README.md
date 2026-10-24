@@ -119,6 +119,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Phone, markets and clips**: phone menu sections as clean cards with Snooze and Cancel on reminders, sector alerts, a market close summary and watchlist export, "clip that" by voice and sharing clips to Discord, plus better answers about frost, snow, other cities' weekend weather, spot prices, world news and local events.
 - **Better answers, add to calendar, accessibility, smaller install**: the latest iOS, Android, macOS and Windows 11 versions straight from Apple, Google and Microsoft; "who runs <company>?" from the encyclopedia with the real title; "Add to my calendar" on each event (your phone's own calendar, or a file for Outlook/Windows/Apple on the PC); every control named for screen readers; and a smaller installer (about 120 MB) now that Local AI no longer carries a second copy of .NET.
 - **Places near you**: "nearest gas station", "what's to eat around here?", "how long to get home?", "will I make my 3:00?", "where am I?". Cards with logos or photos, open now, distance and drive time, Directions and Website; follow-ups like "more", "open late" and "directions to the second one". Uses your phone's location (it asks first) or Windows' location on the PC; free maps, no account needed.
+- **Folders, shows and file names**: just ask "organize the TV shows in D:\Downloads" or "clean up the file names in D:\Docs". Tidy cards with tap questions, before → after and Undo; keep a folder tidy automatically, "what episodes am I missing?", "free up space" (to the Recycle Bin, after you check), photos by date, music by artist and album, and matching file names (dots, underscores and odd symbols gone, numbered files lined up).
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
@@ -149,7 +150,22 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - Ask it to create or change a text file: it shows you the exact text first and saves only when you click **Save**.
   The original is backed up.
 - **Folder jobs**: "sort the files in my downloads folder" or "tidy up my pictures". You see every step first, and
-  **Undo** puts it all back.
+  **Undo** puts it all back. Nothing is ever deleted or overwritten.
+- **TV shows and movies**: "organize the TV shows in D:\Downloads\TV" names them the way Emby, Plex and Jellyfin expect
+  (Show\Season 01\Show - S01E01.mkv, subtitles alongside). It checks the folder first, asks a few tap questions (where
+  the library goes, which copy to keep: the better picture wins), shows each show with its poster and missing episodes
+  (optional TVmaze lookups), and can refresh your media server. Daily shows and anime numbering are understood.
+- **Keep it tidy**: after a tidy, choose "Keep it tidy" (or ask "keep my downloads tidy"): new files get a card to check,
+  or are filed without asking if you prefer.
+- **Clean up file names**: "clean up the file names in D:\Docs" gives tidy, matching names without moving anything:
+  dots, underscores, odd symbols and download tags go, and numbered files match (Chapter 1, chapter_02 → Chapter 01,
+  Chapter 02). "Fix the episode names so all seasons match" renames shows to Show - S01E01, with episode titles if you
+  like. Folders with programs or code are never touched.
+- **Photos and music**: "organize my photos by date" (Year\Month folders by the date taken, exact copies set aside) and
+  "sort my music" (Artist\Album - Title from the songs' details).
+- **Free up space**: "what's taking up space?" shows your drives, the biggest folders and things that are usually safe
+  to clear (old installers, zips you've unpacked, big files you haven't opened in months). Tick, confirm, and they go to
+  the Recycle Bin.
 - Folders with passwords, keys and browser data are always off-limits, and you can block any folder.
 
 ### Memory
