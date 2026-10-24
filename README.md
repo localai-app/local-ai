@@ -119,7 +119,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Phone, markets and clips**: phone menu sections as clean cards with Snooze and Cancel on reminders, sector alerts, a market close summary and watchlist export, "clip that" by voice and sharing clips to Discord, plus better answers about frost, snow, other cities' weekend weather, spot prices, world news and local events.
 - **Better answers, add to calendar, accessibility, smaller install**: the latest iOS, Android, macOS and Windows 11 versions straight from Apple, Google and Microsoft; "who runs <company>?" from the encyclopedia with the real title; "Add to my calendar" on each event (your phone's own calendar, or a file for Outlook/Windows/Apple on the PC); every control named for screen readers; and a smaller installer (about 120 MB) now that Local AI no longer carries a second copy of .NET.
 - **Places near you**: "nearest gas station", "what's to eat around here?", "how long to get home?", "will I make my 3:00?", "where am I?". Cards with logos or photos, open now, distance and drive time, Directions and Website; follow-ups like "more", "open late" and "directions to the second one". Uses your phone's location (it asks first) or Windows' location on the PC; free maps, no account needed.
-- **Folders, shows and file names**: just ask "organize the TV shows in D:\Downloads" or "clean up the file names in D:\Docs". Tidy cards with tap questions, before → after and Undo; keep a folder tidy automatically, "what episodes am I missing?", "free up space" (to the Recycle Bin, after you check), photos by date, music by artist and album, and matching file names (dots, underscores and odd symbols gone, numbered files lined up).
+- **Folders, shows and file names**: just ask "organize the TV shows in D:\Downloads" or "clean up the file names in D:\Docs". Tidy cards with tap questions, a live example, show posters, before → after and Undo (or Finish it, if the PC closed mid-tidy); keep a folder tidy automatically, "what episodes am I missing?", "free up space" (to the Recycle Bin, after you check), photos by date, music by artist and album, and matching file names (dots, underscores and odd symbols gone, numbered files lined up).
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
@@ -149,8 +149,10 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - Find, read and search files in the folders you allow.
 - Ask it to create or change a text file: it shows you the exact text first and saves only when you click **Save**.
   The original is backed up.
-- **Folder jobs**: "sort the files in my downloads folder" or "tidy up my pictures". You see every step first, and
-  **Undo** puts it all back. Nothing is ever deleted or overwritten.
+- **Folder jobs**: "sort the files in my downloads folder" or "tidy up my pictures", tap **Tidy a folder** on the
+  start screen, or drag a folder onto the chat. You see every step first (before → after grouped by show, with the
+  changed part highlighted, and how the folders will look), and **Undo** puts it all back. Nothing is ever deleted or
+  overwritten. If Local AI closes in the middle, the card offers **Finish it** or **Undo**.
 - **TV shows and movies**: "organize the TV shows in D:\Downloads\TV" names them the way Emby, Plex and Jellyfin expect
   (Show\Season 01\Show - S01E01.mkv, subtitles alongside). It checks the folder first, asks a few tap questions (where
   the library goes, which copy to keep: the better picture wins), shows each show with its poster and missing episodes
