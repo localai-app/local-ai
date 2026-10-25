@@ -156,7 +156,9 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **TV shows and movies**: "organize the TV shows in D:\Downloads\TV" names them the way Emby, Plex and Jellyfin expect
   (Show\Season 01\Show - S01E01.mkv, subtitles alongside). It checks the folder first, asks a few tap questions (where
   the library goes, which copy to keep: the better picture wins), shows each show with its poster and missing episodes
-  (optional TVmaze lookups), and can refresh your media server. Daily shows and anime numbering are understood.
+  (optional TVmaze lookups), and can refresh your media server. Daily shows and anime numbering are understood, and
+  episodes numbered only by their folder ("Season 1 Episode (8)\Jaynestown.mp4") are filed too, checked against the
+  episode titles. You choose whether to move the files (nothing left behind) or copy them and keep the originals.
 - **Keep it tidy**: after a tidy, choose "Keep it tidy" (or ask "keep my downloads tidy"): new files get a card to check,
   or are filed without asking if you prefer.
 - **Clean up file names**: "clean up the file names in D:\Docs" gives tidy, matching names without moving anything:
