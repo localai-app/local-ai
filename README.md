@@ -159,6 +159,8 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   (optional TVmaze lookups), and can refresh your media server. Daily shows and anime numbering are understood, and
   episodes numbered only by their folder ("Season 1 Episode (8)\Jaynestown.mp4") are filed too, checked against the
   episode titles. You choose whether to move the files (nothing left behind) or copy them and keep the originals.
+  Download-site names ("www.site.org - ") are dropped, the same show in differently named folders ends up in one
+  folder with a folder per season, and old download folders left with only .nfo, .txt or .url files are cleared too.
 - **Keep it tidy**: after a tidy, choose "Keep it tidy" (or ask "keep my downloads tidy"): new files get a card to check,
   or are filed without asking if you prefer.
 - **Clean up file names**: "clean up the file names in D:\Docs" gives tidy, matching names without moving anything:
