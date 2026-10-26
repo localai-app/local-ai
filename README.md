@@ -120,6 +120,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Better answers, add to calendar, accessibility, smaller install**: the latest iOS, Android, macOS and Windows 11 versions straight from Apple, Google and Microsoft; "who runs <company>?" from the encyclopedia with the real title; "Add to my calendar" on each event (your phone's own calendar, or a file for Outlook/Windows/Apple on the PC); every control named for screen readers; and a smaller installer (about 120 MB) now that Local AI no longer carries a second copy of .NET.
 - **Places near you**: "nearest gas station", "what's to eat around here?", "how long to get home?", "will I make my 3:00?", "where am I?". Cards with logos or photos, open now, distance and drive time, Directions and Website; follow-ups like "more", "open late" and "directions to the second one". Uses your phone's location (it asks first) or Windows' location on the PC; free maps, no account needed.
 - **Folders, shows and file names**: just ask "organize the TV shows in D:\Downloads" or "clean up the file names in D:\Docs". Tidy cards with tap questions, a live example, show posters, before → after and Undo (or Finish it, if the PC closed mid-tidy); keep a folder tidy automatically, "what episodes am I missing?", "free up space" (to the Recycle Bin, after you check), photos by date, music by artist and album, and matching file names (dots, underscores and odd symbols gone, numbered files lined up).
+- **Job finder**: a Jobs button on the left bar (and in the phone menu). Add the roles you want, a pay range, remote or a city and the sites to check; get one list with pay, a match score, scam warnings, drive time and a note on old listings. Tailor your resume and cover letter to any job (it never invents anything), see what changed, save as Word or PDF, get interview prep with a practice interview in chat, a company snapshot, follow-up drafts, a resume check and the skills these jobs ask for. Track applications, save searches for morning alerts, interviews go on your calendar. It never applies for you.
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
@@ -195,6 +196,26 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   changes.
 - Windows notifications with **Snooze** buttons, and phone notifications too. Local AI needs to be running for them to
   go off.
+
+### Job finder
+- **Jobs** on the left bar: add one or more roles (it suggests similar titles), a pay range per year or hour, remote,
+  hybrid or on-site with a city and distance, how recent, job type, level and words to leave out, then tick the sites.
+  Remotive, RemoteOK, We Work Remotely, Jobicy, Arbeitnow and the companies you name are read directly; Indeed,
+  LinkedIn, Glassdoor, ZipRecruiter, Monster, Dice and USAJobs get their own searches with your filters filled in.
+- One list: a job found on several sites shows once with every link, its pay (marked when it's above or below the usual
+  for your search), a match score with reasons, the drive time from your town, a scam warning when something looks off,
+  and a note when a listing has been up for weeks.
+- Add your resume (PDF, Word or text, from the PC or your phone; it stays on your PC). It gets a screening-software
+  check and a chart of the skills your searches ask for. **Tailor my resume** reads the posting, looks the company up,
+  then rewrites your resume and a cover letter using only what's in it: see exactly what changed, edit it, change the
+  letter's tone, save as Word or PDF.
+- **Interview prep** (likely questions, answers from your real experience, questions to ask, and **Practice in chat**),
+  **About the company** (what it does, size, news, anything worth knowing), and follow-up, thank-you and recruiter
+  drafts you copy and send yourself.
+- Track applications (follow-up reminders), add an interview time to put it on your calendar, and save a search to hear
+  about new jobs each morning (PC, phone, Discord). The morning brief gets a Job search line.
+- In chat: "find remote data analyst jobs over 70k", "how are my applications going?". Family members get their own
+  Jobs page on their phones; Discord guests can ask for the top five jobs. Local AI never applies for you.
 
 ### Places near you
 - Ask about what's around you: "nearest grocery", "what's to eat around here?", "any pharmacies open now near me",
