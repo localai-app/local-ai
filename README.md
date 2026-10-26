@@ -6,18 +6,22 @@ cloud AI you linked yourself.
 
 - 💬 Chat, write, translate, explain, summarize: answered by an AI model running on your PC, in short, plain answers
 - 🌦️ Live weather, sports scores, news and web answers with sources; it searches by itself when a question needs today's facts
+- 📍 **Places near you**: "nearest gas station", "pizza near downtown", "how long to get home?", with open hours, drive times and directions
 - 🧮 Sums, tips, unit conversions, dates and "days until" worked out exactly, not guessed
 - 📄 Ask about your documents (PDF, Word, text, even scans) and search your own files; it changes a file only after you click **Save**
 - 🧠 Remembers what you tell it (your name, family, allergies…), and you can see and edit everything it remembers
-- ⏰ Reminders, timers, repeating reminders and daily briefings, said in your own words
+- ⏰ Reminders, timers and repeating reminders said in your own words, plus a morning brief with your day, weather, news and the topics you follow
 - 📅 A calendar for appointments, birthdays, bills and plans, with Google, Outlook and Apple calendars connected
+- 💼 **Job finder**: search the big job sites in one go, tailor your resume and cover letter to a job, prep for the interview and track your applications
+- 📁 **Folder tidies**: "organize the TV shows in my Downloads" or "clean up these file names", shown step by step first, with Undo
+- 📈 Stocks and crypto watchlist with price alerts and charts
 - 🗣️ Talk to it and hear answers read aloud, even hands-free (optional voice add-on, runs on your PC)
 - 🎮 **Workshop**: describe a game or an app and Local AI builds it, play-tests it and lets you use it right away
 - 🖱️ **Do it for me**: it can use apps like Notepad, Calculator and File Explorer for you, with your OK
 - 🎮 **Game mode**: when you start a game, the AI steps aside so your game gets the whole graphics card
 - 🔌 **Connections**: link folders and services (GitHub, Home Assistant and more) and ask about them in normal words
 - 🖼️ Create and edit pictures on your PC (optional add-on)
-- 📱 Use it from your phone at home or anywhere, and give family members their own private sign-in
+- 📱 Use it from your phone at home or anywhere, give family members their own private sign-in, and add a Discord bot for friends
 - ☁️ Optional: link your own Claude, ChatGPT or Gemini account for chats where you want it
 
 > Local AI is a preview. Answers can be wrong: check anything important.
