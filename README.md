@@ -125,6 +125,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Places near you**: "nearest gas station", "what's to eat around here?", "how long to get home?", "will I make my 3:00?", "where am I?". Cards with logos or photos, open now, distance and drive time, Directions and Website; follow-ups like "more", "open late" and "directions to the second one". Uses your phone's location (it asks first) or Windows' location on the PC; free maps, no account needed.
 - **Folders, shows and file names**: just ask "organize the TV shows in D:\Downloads" or "clean up the file names in D:\Docs". Tidy cards with tap questions, a live example, show posters, before → after and Undo (or Finish it, if the PC closed mid-tidy); keep a folder tidy automatically, "what episodes am I missing?", "free up space" (to the Recycle Bin, after you check), photos by date, music by artist and album, and matching file names (dots, underscores and odd symbols gone, numbered files lined up).
 - **Job finder**: a Jobs button on the left bar (and in the phone menu). Add the roles you want, a pay range, remote or a city and the sites to check; get one list with pay, a match score, scam warnings, drive time and a note on old listings. Tailor your resume and cover letter to any job (it never invents anything), see what changed, save as Word or PDF, get interview prep with a practice interview in chat, a company snapshot, follow-up drafts, a resume check and the skills these jobs ask for. Track applications, save searches for morning alerts, interviews go on your calendar. It never applies for you.
+- **Lists, scheduled tasks, helpers, meeting notes and Bourbon**: shopping and to-do lists you fill by just saying it (sorted by aisle, shared with family); scheduled tasks in plain words that go to your PC, phone, Discord or morning brief; custom helpers that give a chat a role (Chef, Study buddy, your own) with files it knows; meeting and voice notes typed out on your PC and written up with action items; and a Bourbon shelf with tasting journal, watch list, store sightings, blind tastings and local release news.
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
@@ -220,6 +221,37 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   about new jobs each morning (PC, phone, Discord). The morning brief gets a Job search line.
 - In chat: "find remote data analyst jobs over 70k", "how are my applications going?". Family members get their own
   Jobs page on their phones; Discord guests can ask for the top five jobs. Local AI never applies for you.
+
+### Lists
+- **Lists** on the left bar: "add milk, 2 loaves of bread and eggs to the shopping list", "what's on my packing list?",
+  "I got the eggs". Shopping lists sort by aisle and add up quantities. Share a list with the family, or let Discord add
+  to one list you choose (they can add but never see it).
+
+### Scheduled tasks
+- "Every Friday at 5, sum up this week's Bengals news", "on the 1st of each month, what's on my calendar", "every 3
+  hours, check for new episodes". Send each one to this PC, your phone, a Discord channel or your morning brief. One
+  page to turn them on or off, run now, change in plain words, see the next runs and the last results.
+
+### Custom helpers
+- Give a chat a role: Study buddy, Chef, Writing coach, Dungeon master, Fitness planner, Tech support, or describe your
+  own. Choose how it talks and what it says first, add up to five files it answers from, and keep memories out of
+  games. Share a helper with your family or with Discord guests (never its files).
+
+### Meeting and voice notes
+- Record a meeting, class or note to yourself (or drop in an audio file); turn on "Include PC sound" for online calls.
+  The voice add-on types it out on your PC as it goes and deletes the audio. You get a title, summary, key points,
+  decisions, action items and open questions; ask questions about it, add action items to your list, save as Word,
+  PDF or text. Works from your phone's microphone too.
+
+### Bourbon
+- Off the left bar until you pin it (More → Bourbon, ☰ → Bourbon on your phone). Your shelf with proof, age, paid,
+  MSRP and what it's worth, sealed or open and how full; snap a label and the AI reads it. "I bought Blanton's for $70
+  at Total Wine", "I opened the Stagg", "rate Eagle Rare 8/10, cherry and oak", with Undo.
+- A tasting journal, a watch list with price limits, store sightings ("saw Weller 12 at Kroger for $40") that show
+  which stores get what and on which days, and blind tastings with a pourer's key and a reveal.
+- The morning brief gets news on the bottles you watch plus releases and tasting events near you; turn on phone alerts
+  or a daily release roundup. Each family member gets their own shelf; Discord friends can see names and ratings if
+  you allow it.
 
 ### Places near you
 - Ask about what's around you: "nearest grocery", "what's to eat around here?", "any pharmacies open now near me",
