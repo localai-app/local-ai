@@ -126,6 +126,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Folders, shows and file names**: just ask "organize the TV shows in D:\Downloads" or "clean up the file names in D:\Docs". Tidy cards with tap questions, a live example, show posters, before → after and Undo (or Finish it, if the PC closed mid-tidy); keep a folder tidy automatically, "what episodes am I missing?", "free up space" (to the Recycle Bin, after you check), photos by date, music by artist and album, and matching file names (dots, underscores and odd symbols gone, numbered files lined up).
 - **Job finder**: a Jobs button on the left bar (and in the phone menu). Add the roles you want, a pay range, remote or a city and the sites to check; get one list with pay, a match score, scam warnings, drive time and a note on old listings. Tailor your resume and cover letter to any job (it never invents anything), see what changed, save as Word or PDF, get interview prep with a practice interview in chat, a company snapshot, follow-up drafts, a resume check and the skills these jobs ask for. Track applications, save searches for morning alerts, interviews go on your calendar. It never applies for you.
 - **Lists, scheduled tasks, helpers, meeting notes and Bourbon**: shopping and to-do lists you fill by just saying it (sorted by aisle, shared with family); scheduled tasks in plain words that go to your PC, phone, Discord or morning brief; custom helpers that give a chat a role (Chef, Study buddy, your own) with files it knows; meeting and voice notes typed out on your PC and written up with action items; and a Bourbon shelf with tasting journal, watch list, store sightings, blind tastings and local release news.
+- **Bourbon looks bottles up**: add a bottle to your watch list or shelf and confirm which one you meant, so its official name, proof, age and MSRP are filled in; pick a picture for shelf bottles; and see liquor stores near you with ratings, what reviewers say, directions and a link to their reviews.
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
@@ -252,6 +253,10 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - The morning brief gets news on the bottles you watch plus releases and tasting events near you; turn on phone alerts
   or a daily release roundup. Each family member gets their own shelf; Discord friends can see names and ratings if
   you allow it.
+- With web access on, each new bottle is looked up online and you confirm which one you meant (official name,
+  distillery, proof, age and MSRP filled in). Shelf bottles get pictures to pick from, or keep your label photo.
+- The Stores tab lists liquor stores near you (OpenStreetMap) with distance, open now, a rating when a public page
+  shows one, a line on what reviewers say, directions and a Google Maps link to their reviews.
 
 ### Places near you
 - Ask about what's around you: "nearest grocery", "what's to eat around here?", "any pharmacies open now near me",
