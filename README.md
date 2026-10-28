@@ -110,6 +110,9 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   sarcastic", "stop using emojis") and it keeps doing that in every chat. It gives a real pick when you ask for
   one, re-checks before agreeing when you say it's wrong, and never claims it can't do something it can.
 - **The same for everyone**: family sign-ins and Discord guests get the same understanding and voice (within their own
+  limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
+  Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
+  same in chat. Ask "how do you search?" and it tells you plainly.
 - **Small things that add up**: Undo after forgetting a memory, the monthly "Still true?" check on phones, Every day / Weekdays buttons on reminders, and Sources that also show the pages Local AI skipped and why.
 - **Better sources, and phones catch up**: questions about who runs or owns something are checked against Wikipedia or a news site; phones get repeat buttons on reminders, family members get repeating reminders, Undo and Sources; Discord guests get clearer answers and fewer repeated quotes.
 - **Smarter answers, taught by example**: live prices for gold, oil, currencies and crypto, exact world times and bill splits, more questions looked up instead of guessed, weather questions in everyday words, and plainer web answers.
@@ -133,9 +136,6 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Bourbon news from the whiskey sites, and Run now where you asked**: Breaking Bourbon, Fred Minnick, Whisky Advocate, The Whiskey Wash, Bottle Raiders, Brewzle and more feed your morning brief, watched-bottle alerts, the daily release check and the Bourbon News tab; ask "any new bourbon releases?" in chat. Run now on a scheduled task's card answers in the chat you tapped it from. 
 - **A fresh Bourbon page**: clean icons that match the rest of the app, a short guide on each tab, number tiles for your shelf and the latest whiskey headlines first, on the PC and your phone. Whiskey Weather barrel picks now show up in bourbon news.
 - **Guided blind tastings**: four clear steps (pick bottles, pour, taste and score, reveal), a "tasters, look away" key for the pourer that hides with one tap, a score slider for each glass, and a ranked reveal with your favourite on top, on the PC and your phone.
-  limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
-  Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
-  same in chat. Ask "how do you search?" and it tells you plainly.
 - **Sums done exactly**: percentages, tips, discounts and tax, splitting a bill, unit conversions (miles, kg, cups,
   ounces…), temperatures, "how many days until Christmas", and the date and time, all worked out by the app.
 - Attach a picture (**+**, paste or drag in) and ask about it. **Ctrl+Alt+S** takes a picture of the window you're
