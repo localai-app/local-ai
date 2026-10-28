@@ -17,7 +17,7 @@ cloud AI you linked yourself.
 - 📈 Stocks and crypto watchlist with price alerts and charts
 - ✅ **Lists and scheduled tasks**: shopping and to-do lists you fill by just saying it, and jobs in plain words ("every Friday at 5, sum up the Bengals news") sent to your PC, phone, Discord or morning brief
 - 🧑‍🏫 **Custom helpers and meeting notes**: give a chat a role (study buddy, chef, coach…), and record a meeting or call for a summary, decisions and action items
-- 🥃 **Bourbon**: your shelf, tasting journal, watch list with price limits, store sightings, guided blind tastings, liquor stores near you and news from the top whiskey sites
+- 🥃 **Bourbon**: your shelf, tasting journal, watch list with price limits, store sightings, guided blind tastings, liquor stores near you or any ZIP code and news from the top whiskey sites
 - 🗣️ Talk to it and hear answers read aloud, even hands-free (optional voice add-on, runs on your PC)
 - 🎮 **Workshop**: describe a game or an app and Local AI builds it, play-tests it and lets you use it right away
 - 🖱️ **Do it for me**: it can use apps like Notepad, Calculator and File Explorer for you, with your OK
@@ -136,6 +136,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Bourbon news from the whiskey sites, and Run now where you asked**: Breaking Bourbon, Fred Minnick, Whisky Advocate, The Whiskey Wash, Bottle Raiders, Brewzle and more feed your morning brief, watched-bottle alerts, the daily release check and the Bourbon News tab; ask "any new bourbon releases?" in chat. Run now on a scheduled task's card answers in the chat you tapped it from. 
 - **A fresh Bourbon page**: clean icons that match the rest of the app, a short guide on each tab, number tiles for your shelf and the latest whiskey headlines first, on the PC and your phone. Whiskey Weather barrel picks now show up in bourbon news.
 - **Guided blind tastings**: four clear steps (pick bottles, pour, taste and score, reveal), a "tasters, look away" key for the pourer that hides with one tap, a score slider for each glass, and a ranked reveal with your favourite on top, on the PC and your phone.
+- **Stores near any ZIP code**: type a ZIP code or town on the Bourbon Stores tab to see liquor stores near there, with Near me to switch back, on the PC and your phone.
 - **Sums done exactly**: percentages, tips, discounts and tax, splitting a bill, unit conversions (miles, kg, cups,
   ounces…), temperatures, "how many days until Christmas", and the date and time, all worked out by the app.
 - Attach a picture (**+**, paste or drag in) and ask about it. **Ctrl+Alt+S** takes a picture of the window you're
