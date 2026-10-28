@@ -15,6 +15,9 @@ cloud AI you linked yourself.
 - 💼 **Job finder**: search the big job sites in one go, tailor your resume and cover letter to a job, prep for the interview and track your applications
 - 📁 **Folder tidies**: "organize the TV shows in my Downloads" or "clean up these file names", shown step by step first, with Undo
 - 📈 Stocks and crypto watchlist with price alerts and charts
+- ✅ **Lists and scheduled tasks**: shopping and to-do lists you fill by just saying it, and jobs in plain words ("every Friday at 5, sum up the Bengals news") sent to your PC, phone, Discord or morning brief
+- 🧑‍🏫 **Custom helpers and meeting notes**: give a chat a role (study buddy, chef, coach…), and record a meeting or call for a summary, decisions and action items
+- 🥃 **Bourbon**: your shelf, tasting journal, watch list with price limits, store sightings, guided blind tastings, liquor stores near you and news from the top whiskey sites
 - 🗣️ Talk to it and hear answers read aloud, even hands-free (optional voice add-on, runs on your PC)
 - 🎮 **Workshop**: describe a game or an app and Local AI builds it, play-tests it and lets you use it right away
 - 🖱️ **Do it for me**: it can use apps like Notepad, Calculator and File Explorer for you, with your OK
@@ -127,8 +130,9 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Job finder**: a Jobs button on the left bar (and in the phone menu). Add the roles you want, a pay range, remote or a city and the sites to check; get one list with pay, a match score, scam warnings, drive time and a note on old listings. Tailor your resume and cover letter to any job (it never invents anything), see what changed, save as Word or PDF, get interview prep with a practice interview in chat, a company snapshot, follow-up drafts, a resume check and the skills these jobs ask for. Track applications, save searches for morning alerts, interviews go on your calendar. It never applies for you.
 - **Lists, scheduled tasks, helpers, meeting notes and Bourbon**: shopping and to-do lists you fill by just saying it (sorted by aisle, shared with family); scheduled tasks in plain words that go to your PC, phone, Discord or morning brief; custom helpers that give a chat a role (Chef, Study buddy, your own) with files it knows; meeting and voice notes typed out on your PC and written up with action items; and a Bourbon shelf with tasting journal, watch list, store sightings, blind tastings and local release news.
 - **Bourbon looks bottles up**: add a bottle to your watch list or shelf and confirm which one you meant, so its official name, proof, age and MSRP are filled in; pick a picture for shelf bottles; and see liquor stores near you with ratings, what reviewers say, directions and a link to their reviews.
+- **Bourbon news from the whiskey sites, and Run now where you asked**: Breaking Bourbon, Fred Minnick, Whisky Advocate, The Whiskey Wash, Bottle Raiders, Brewzle and more feed your morning brief, watched-bottle alerts, the daily release check and the Bourbon News tab; ask "any new bourbon releases?" in chat. Run now on a scheduled task's card answers in the chat you tapped it from. 
 - **A fresh Bourbon page**: clean icons that match the rest of the app, a short guide on each tab, number tiles for your shelf and the latest whiskey headlines first, on the PC and your phone. Whiskey Weather barrel picks now show up in bourbon news.
-- **Bourbon news from the whiskey sites**: Breaking Bourbon, Fred Minnick, Whisky Advocate, The Whiskey Wash, Bottle Raiders, Brewzle and more feed your morning brief, watched-bottle alerts, the daily release check and the Bourbon News tab; ask "any new bourbon releases?" in chat. Run now on a scheduled task in a chat answers right there.
+- **Guided blind tastings**: four clear steps (pick bottles, pour, taste and score, reveal), a "tasters, look away" key for the pourer that hides with one tap, a score slider for each glass, and a ranked reveal with your favourite on top, on the PC and your phone.
   limits). Long chats keep a short summary of their start, so a 60-message chat still knows what you decided early on.
   Once a month a "Still true?" card offers memories over a month old to keep or forget; "review my memories" does the
   same in chat. Ask "how do you search?" and it tells you plainly.
@@ -233,7 +237,8 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 ### Scheduled tasks
 - "Every Friday at 5, sum up this week's Bengals news", "on the 1st of each month, what's on my calendar", "every 3
   hours, check for new episodes". Send each one to this PC, your phone, a Discord channel or your morning brief. One
-  page to turn them on or off, run now, change in plain words, see the next runs and the last results.
+  page to turn them on or off, run now, change in plain words, see the next runs and the last results. **Run now** on a task's card in a chat
+  puts the answer right in that chat.
 
 ### Custom helpers
 - Give a chat a role: Study buddy, Chef, Writing coach, Dungeon master, Fitness planner, Tech support, or describe your
@@ -247,11 +252,13 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
   PDF or text. Works from your phone's microphone too.
 
 ### Bourbon
-- Off the left bar until you pin it (More → Bourbon, ☰ → Bourbon on your phone). Your shelf with proof, age, paid,
+- Off the left bar until you pin it (More → Bourbon, ☰ → Bourbon on your phone). Tabs for Shelf, Tasting journal,
+  Watch list, Stores, Blind tasting and News & alerts, each with a short guide. Your shelf with proof, age, paid,
   MSRP and what it's worth, sealed or open and how full; snap a label and the AI reads it. "I bought Blanton's for $70
   at Total Wine", "I opened the Stagg", "rate Eagle Rare 8/10, cherry and oak", with Undo.
 - A tasting journal, a watch list with price limits, store sightings ("saw Weller 12 at Kroger for $40") that show
-  which stores get what and on which days, and blind tastings with a pourer's key and a reveal.
+  which stores get what and on which days, and guided blind tastings: pick 2 to 6 bottles, the pourer
+  sees a lettered key and hides it, everyone scores each glass with a slider, then the reveal ranks them.
 - The morning brief gets news on the bottles you watch plus releases and tasting events near you; turn on phone alerts
   or a daily release roundup. Each family member gets their own shelf; Discord friends can see names and ratings if
   you allow it.
