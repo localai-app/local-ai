@@ -138,6 +138,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Guided blind tastings**: four clear steps (pick bottles, pour, taste and score, reveal), a "tasters, look away" key for the pourer that hides with one tap, a score slider for each glass, and a ranked reveal with your favourite on top, on the PC and your phone.
 - **Stores near any ZIP code**: type a ZIP code or town on the Bourbon Stores tab to see liquor stores near there, with Near me to switch back, on the PC and your phone.
 - **Whiskey news and ZIP searches on Discord**: Discord guests asking for bourbon news, new releases or barrel picks get the latest headlines from the whiskey news sites, and any place search takes a ZIP code ("liquor stores near 40202").
+- **A cleaner look, and Ctrl+K**: wider chats, short chat names ("Weather in Louisville" instead of the whole question, on your phone too), project folders that start closed, Help as a page with a search box, Ctrl+K to jump to any page, setting or chat, Markets, Scheduled, Helpers or Meeting notes pinned to the left bar from More, one-line memories, Pictures filtered by made or added with dates, and optional add-ons grouped in Settings.
 - **Sums done exactly**: percentages, tips, discounts and tax, splitting a bill, unit conversions (miles, kg, cups,
   ounces…), temperatures, "how many days until Christmas", and the date and time, all worked out by the app.
 - Attach a picture (**+**, paste or drag in) and ask about it. **Ctrl+Alt+S** takes a picture of the window you're
