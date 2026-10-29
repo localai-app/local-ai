@@ -71,7 +71,7 @@ bigger models fit. You can choose which card to use in **Settings → Speed & an
 
 After the AI loads, Local AI checks that it really fits on the graphics card. If part of it spilled into slower shared
 memory, it moves picture reading (and, for some models, a few layers) to the processor and quietly reloads. It checks again every 15 minutes in case
-something pushes it out later.
+something pushes it out later, and moves those layers back once the card has room again (say, after you close a game or editor).
 
 **Tune it for your PC**: **Settings → Speed & answers → Show fine-tune options** lets you choose how long the AI stays
 loaded (up to always), see and adjust the graphics card fit, set processor threads, pick an answer style (Precise,
@@ -408,7 +408,8 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 ### For tinkerers
 Local AI starts in a simple mode. Turn on **Show all features** in **Settings → App** for:
 - Teaching skills by example.
-- Background research on topics you ask about, with a notebook of sources.
+- Background research on topics you ask about, with a notebook of sources (Research on the left bar shows what it looked
+  into, what it found and why it's waiting, in plain words).
 - Longer multi-step tasks over approved files.
 - Coding help in an approved project folder (on a separate copy).
 
