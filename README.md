@@ -139,6 +139,7 @@ Qwen models are Apache-2.0; Gemma models carry Google's Gemma licence. Sizes inc
 - **Stores near any ZIP code**: type a ZIP code or town on the Bourbon Stores tab to see liquor stores near there, with Near me to switch back, on the PC and your phone.
 - **Whiskey news and ZIP searches on Discord**: Discord guests asking for bourbon news, new releases or barrel picks get the latest headlines from the whiskey news sites, and any place search takes a ZIP code ("liquor stores near 40202").
 - **A cleaner look, and Ctrl+K**: wider chats, short chat names ("Weather in Louisville" instead of the whole question, on your phone too), project folders that start closed, Help as a page with a search box, Ctrl+K to jump to any page, setting or chat, Markets, Scheduled, Helpers or Meeting notes pinned to the left bar from More, one-line memories, Pictures filtered by made or added with dates, and optional add-ons grouped in Settings.
+- **Fewer location pop-ups on phones**: the phone asks for its location only when you ask about places, travel or weather ("closest gas station", "will it rain"), not when an ordinary reply happens to say "closest" or "hot".
 - **Sums done exactly**: percentages, tips, discounts and tax, splitting a bill, unit conversions (miles, kg, cups,
   ounces…), temperatures, "how many days until Christmas", and the date and time, all worked out by the app.
 - Attach a picture (**+**, paste or drag in) and ask about it. **Ctrl+Alt+S** takes a picture of the window you're
